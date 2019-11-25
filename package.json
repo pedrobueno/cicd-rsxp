@@ -1,0 +1,14 @@
+{
+  "name": "cicd-rsxp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pedrobueno/cicd-rsxp.git",
+  "author": "Pedro Bueno <pedro@mentores.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "node app.js"
+  }
+}
